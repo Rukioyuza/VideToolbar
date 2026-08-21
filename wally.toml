@@ -1,0 +1,11 @@
+[package]
+name = "rukioyuza/videtoolbar"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+license = "MIT"
+authors = ["Rukioyuza"]
+private = true
+
+[dependencies]
+vide = "centau/vide@0.4.1"

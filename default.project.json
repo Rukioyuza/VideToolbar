@@ -1,0 +1,21 @@
+{
+	"name": "VideToolbar",
+	"tree": {
+		"$className": "DataModel",
+		"ReplicatedStorage": {
+			"Packages": {
+				"$path": "Packages"
+			},
+			"VideToolbar": {
+				"$path": "src"
+			}
+		},
+		"StarterPlayer": {
+			"StarterPlayerScripts": {
+				"ToolbarExample": {
+					"$path": "example/ToolbarExample.client.luau"
+				}
+			}
+		}
+	}
+}
